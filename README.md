@@ -6,5 +6,5 @@
 
 #### 课程目录
 1.mathematical analysis  
-2.advanced alghbra
+2.advanced algebra
 
